@@ -1,0 +1,9 @@
+[package]
+name = "usuario-ldap-rust"
+version = "0.1.0"
+authors = ["Vitor <vitor.senna@imd.ufrn.br>"]
+edition = "2021"
+
+[dependencies]
+ratatui = "0.20"
+crossterm = "0.26"
